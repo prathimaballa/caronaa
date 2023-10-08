@@ -1,0 +1,93 @@
+.top{
+    background-color:white;
+    border:2px solid white;
+    border-radius:5px;
+    width:100vw;
+    height:20vh;
+padding:10px;}
+.f{
+    font-weight:bold;
+}
+.bttn{
+    width:100px;
+    background-color:#0967d2;
+    border:2px solid #0967d2;
+    border-radius:5px;
+    color:white;
+    font-size:13px;
+}
+.fon{
+    font-weight:bold;
+}
+.middle{
+    background-color:#0967d219;
+    width:50vw;
+    height:100px;
+    border-radius:10px;
+    padding:15px;
+}
+.mid{
+    background-color:white;
+    width:30vw;
+    height:20vh;
+    padding:10px;
+    margin:20px;
+   
+}
+.dry{
+    background-color:#3ebd93;
+    height:100px;
+    width:100px;
+    border-radius:8px; 
+    font-weight:5px;  
+    color:white;
+    padding:10px;
+}
+.high{
+    background-color:#e668a7;
+    height:100px;
+    width:100px;
+    border-radius:8px; 
+    font-weight:5px;
+    color:white;
+    padding:10px;
+
+}
+.head{
+    background-color:#a368fc;
+    height:100px;
+    width:100px;
+    border-radius:8px; 
+    font-weight:5px;
+    color:white;
+    padding:10px;
+}
+.bot{
+    background-color:#e12d3919;
+    width:100vw;
+    height:100vh;
+    padding:50px;
+    border-radius:10px;
+}
+.man{
+    background-color:#e12d3919;
+    height:100px;
+    width:100px;
+    border-radius:8px; 
+    font-weight:5px;
+    color:white;
+    padding:20px;
+}
+.he{
+    font-weight:5px;
+    color:#707070;
+}
+.bun{
+    width:130px;
+    height:40px;
+    color:white;
+    background-color:#0967d2;
+    border:2px solid #0967d2;
+    border-radius:5px;
+
+}
